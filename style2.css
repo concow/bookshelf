@@ -1,0 +1,149 @@
+body {
+  padding: 20px;
+  text-align: center;
+  background-color: #ffff;
+  font-family: "Open Sans", sans-serif;
+}
+
+header {
+  padding: 40px;
+  background-color: rgb(51, 126, 45);
+}
+
+h1 {
+  font-family: "Fontdiner Swanky";
+  text-align: center;
+  font-size: 3rem;
+  margin-top: 0;
+  margin-bottom: 4px;
+}
+
+footer {
+  padding: 40px;
+  background-color: rgb(51, 126, 45);
+
+}
+
+h2 {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  padding: 8px;
+  font-size: 1.2rem;
+  font-weight: 800;
+  color: #000000dd;
+  margin: 0;
+}
+
+.logo {
+  margin-bottom: 20px;
+}
+
+.book-container {
+  width: 100%;
+  background-color: rgb(111, 211, 210);
+  display: flex;
+  justify-content: center;
+}
+
+.book-card {
+  width: 300px;
+  border: 4px solid white;
+  border-radius: 2px;
+  text-align: left;
+  border-style: dotted;
+  border-color: rgb(233, 124, 184);
+  background-color: white;
+  padding: 8px;
+  text-align: center;
+}
+#header-img {
+  width: 1000px;
+}
+.image {
+  width: 200px;
+  border: 1px solid black;
+}
+
+.likes-section {
+  text-align: left;
+  padding: 0 10px;
+}
+
+.likes {
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.like-button {
+  color: rgb(255, 127, 80);
+  font-size: 1.5rem;
+  border: none;
+  background: none;
+  transition: color 300ms;
+  cursor: pointer;
+}
+
+.like-button:hover {
+  color: rgb(241, 71, 19);
+}
+
+.like-button:active {
+  color: rgb(253, 159, 124);
+}
+
+.like-button:focus {
+  outline: none;
+}
+
+.comments {
+  border-top: 4px solid #00000020;
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 10px;
+  padding-top: 8px;
+  font-size: 0.85rem;
+}
+
+.comments li {
+  margin: 2px 0;
+  letter-spacing: 0.2px;
+}
+
+.comment-form {
+  width: 100%;
+  border-top: 4px solid #00000020;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.comment-input {
+  width: 70%;
+  border: none;
+  font-size: 0.9rem;
+}
+
+.comment-input:focus {
+  outline: none;
+}
+
+.comment-button {
+  border: none;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: rgb(13, 18, 46);
+  cursor: pointer;
+  transition: color 300ms;
+}
+
+.comment-button:hover {
+  background-color: #b8b8b8e5;
+  color: rgb(37, 68, 245);
+}
+
+.comment-button:active {
+  color: rgb(127, 146, 250);
+}
+
+.comment-button:focus {
+  outline: none;
+}

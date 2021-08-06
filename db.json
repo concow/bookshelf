@@ -1,0 +1,148 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Sci-Fi & Fantasy",
+      "price": "6.29",
+      "likes": 5,
+      "image": "https://img.thriftbooks.com/api/images/i/m/755531FE2539A50398A02192BABED951904B5D1A.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "genre": "Sci-Fi & Fantasy",
+      "price": "4.19",
+      "likes": 2,
+      "image": "https://img.thriftbooks.com/api/images/i/m/CE143585C8CB812292E4574FD5CA0B86F035AB25.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "genre": "Sci-Fi & Fantasy",
+      "price": "8.49",
+      "likes": 9,
+      "image": "https://m.media-amazon.com/images/I/51dxTuHKizL._SL350_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Where the Wild Things Are",
+      "author": "Maurice Sendak",
+      "genre": "Sci-Fi & Fantasy",
+      "price": "4.69",
+      "likes": 12,
+      "image": "https://m.media-amazon.com/images/I/615VKkb9nNL._SL350_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Ready Player One",
+      "author": "Ernest Cline",
+      "genre": "Sci-Fi & Fantasy",
+      "price": "4.79",
+      "likes": 5,
+      "image": "https://img.thriftbooks.com/api/images/i/m/B3DBCC55E359B87DDC2DBE9797BC3FFC3C779556.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The Giving Tree",
+      "author": "Shel Silverstein",
+      "genre": "Literature & Fiction",
+      "price": "6.19",
+      "likes": 100,
+      "image": "https://m.media-amazon.com/images/I/41fR2KV7jzL._SL350_.jpg"
+    },
+    {
+      "id": 7,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Literature & Fiction",
+      "price": "4.19",
+      "likes": 11,
+      "image": "https://m.media-amazon.com/images/I/41tpBJUYuHL._SL350_.jpg"
+    },
+    {
+      "id": 8,
+      "title": "The Outsiders",
+      "author": "S.E. Hinton",
+      "genre": "Literature & Fiction",
+      "price": "4.20",
+      "likes": 3,
+      "image": "https://img.thriftbooks.com/api/images/m/4d44a05666148326a3e72a23981b77a70ec924de.jpg"
+    },
+    {
+      "id": 9,
+      "title": "In Cold Blood",
+      "author": "Truman Capote",
+      "genre": "Literature & Fiction",
+      "price": "4.69",
+      "likes": 7,
+      "image": "https://img.thriftbooks.com/api/images/m/3d447a8744760aa0990a98553042d8161869a776.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "genre": "Literature & Fiction",
+      "price": "5.19",
+      "likes": 19,
+      "image": "https://img.thriftbooks.com/api/images/m/755846657be6b8b1f9522dfe27d2141687f1dec2.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Thunderstruck",
+      "author": "Erik Larson",
+      "genre": "True Crime",
+      "price": "4.79",
+      "likes": 4,
+      "image": "https://m.media-amazon.com/images/I/51o1RMziRyL._SL350_.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Mindhunter",
+      "author": "John E. Douglas and Mark Olshaker",
+      "genre": "True Crime",
+      "price": "64.39",
+      "likes": 7,
+      "image": "https://img.thriftbooks.com/api/images/m/e91c2ee0cd00496ba5731e841556099aaed61988.jpg"
+    },
+    {
+      "id": 13,
+      "title": "The Devil in the White City",
+      "author": "Erik Larson",
+      "genre": "True Crime",
+      "price": "4.79",
+      "likes": 1,
+      "image": "https://m.media-amazon.com/images/I/51cdhA7uj0L._SL350_.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Killers of the Flower Moon",
+      "author": "David Grann",
+      "genre": "True Crime",
+      "price": "8.79",
+      "likes": 23,
+      "image": "https://img.thriftbooks.com/api/images/m/409d425698c40cabbd8b1455a392f30de9c6285a.jpg"
+    },
+    {
+      "id": 15,
+      "title": "The Stranger Beside Me",
+      "author": "Ann Rule",
+      "genre": "True Crime",
+      "price": "10.89",
+      "likes": 2,
+      "image": "https://img.thriftbooks.com/api/images/i/m/2B7B76C14965E55D0D0591500A0977B7AFF01068.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Outliers: The Story of Success",
+      "author": "Malcolm Gladwell",
+      "genre": "Business",
+      "price": "4.89",
+      "likes": 31,
+      "image": "https://m.media-amazon.com/images/I/41LO6QRvIuL._SL350_.jpg"
+    }
+  ]
+}
