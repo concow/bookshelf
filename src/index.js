@@ -68,7 +68,7 @@ function addBook(event) {
     if (bookTitle !== "" && bookAuthor !== "" && bookGenre !== "" && bookPrice !== ""
         && bookImage !== "") {
         const bookObj = {
-            //id: server auto increments id
+            id: "",             //id: server auto increments id. (if not present, would be in bottom of properties)
             title: bookTitle,
             author: bookAuthor,
             genre: bookGenre,

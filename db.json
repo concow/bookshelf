@@ -143,6 +143,15 @@
       "price": "4.89",
       "likes": 31,
       "image": "https://m.media-amazon.com/images/I/41LO6QRvIuL._SL350_.jpg"
+    },
+    {
+      "id": 17,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Classic Literature",
+      "price": "16.00",
+      "likes": 0,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51IXWZzlgSL._SX330_BO1,204,203,200_.jpg"
     }
   ]
 }

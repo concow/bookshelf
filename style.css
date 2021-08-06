@@ -111,9 +111,12 @@ label {
   background-color: #96dbeb;
 }
 
-#title-input {
-
+.like-num {
+  color:#ff6505;
 }
+/* #title-input {
+
+} */
 
 /* #book-form {
   margin-top: 25px;
