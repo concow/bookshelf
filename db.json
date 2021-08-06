@@ -29,12 +29,12 @@
     },
     {
       "id": 4,
-      "title": "Where the Wild Things Are",
-      "author": "Maurice Sendak",
-      "genre": "Sci-Fi & Fantasy",
-      "price": "4.69",
+      "title": "Cujo: A Novel",
+      "author": "Stephen King",
+      "genre": "Thriller",
+      "price": "12.39",
       "likes": 12,
-      "image": "https://m.media-amazon.com/images/I/615VKkb9nNL._SL350_.jpg"
+      "image": "https://images-na.ssl-images-amazon.com/images/I/510luzHb+DL._SX322_BO1,204,203,200_.jpg"
     },
     {
       "id": 5,
@@ -76,7 +76,7 @@
       "id": 9,
       "title": "In Cold Blood",
       "author": "Truman Capote",
-      "genre": "Literature & Fiction",
+      "genre": "Nonfiction/Literature",
       "price": "4.69",
       "likes": 7,
       "image": "https://img.thriftbooks.com/api/images/m/3d447a8744760aa0990a98553042d8161869a776.jpg"
@@ -92,12 +92,12 @@
     },
     {
       "id": 11,
-      "title": "Thunderstruck",
-      "author": "Erik Larson",
-      "genre": "True Crime",
-      "price": "4.79",
+      "title": "Where the Crawdads Sing",
+      "author": "Delia Owens",
+      "genre": "Literary Fiction",
+      "price": "9.98",
       "likes": 4,
-      "image": "https://m.media-amazon.com/images/I/51o1RMziRyL._SL350_.jpg"
+      "image": "https://images-na.ssl-images-amazon.com/images/I/513gc-hGy3L._SX331_BO1,204,203,200_.jpg"
     },
     {
       "id": 12,
@@ -128,12 +128,12 @@
     },
     {
       "id": 15,
-      "title": "The Stranger Beside Me",
-      "author": "Ann Rule",
-      "genre": "True Crime",
-      "price": "10.89",
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "genre": "Mystery",
+      "price": "13.67",
       "likes": 2,
-      "image": "https://img.thriftbooks.com/api/images/i/m/2B7B76C14965E55D0D0591500A0977B7AFF01068.jpg"
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41bsvxNUSdL._SX327_BO1,204,203,200_.jpg"
     },
     {
       "id": 16,
